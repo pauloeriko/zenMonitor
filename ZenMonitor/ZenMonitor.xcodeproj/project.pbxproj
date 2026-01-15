@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		25BC765C2EFC5D72002A7DC8 /* ZenMonitor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZenMonitor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		25BF84392F00194500486043 /* ZenMonitor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZenMonitor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		25BC765E2EFC5D72002A7DC8 /* ZenMonitor */ = {
+		25BF843B2F00194500486043 /* ZenMonitor */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = ZenMonitor;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		25BC76592EFC5D72002A7DC8 /* Frameworks */ = {
+		25BF84362F00194500486043 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		25BC76532EFC5D72002A7DC8 = {
+		25BF84302F00194500486043 = {
 			isa = PBXGroup;
 			children = (
-				25BC765E2EFC5D72002A7DC8 /* ZenMonitor */,
-				25BC765D2EFC5D72002A7DC8 /* Products */,
+				25BF843B2F00194500486043 /* ZenMonitor */,
+				25BF843A2F00194500486043 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		25BC765D2EFC5D72002A7DC8 /* Products */ = {
+		25BF843A2F00194500486043 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				25BC765C2EFC5D72002A7DC8 /* ZenMonitor.app */,
+				25BF84392F00194500486043 /* ZenMonitor.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		25BC765B2EFC5D72002A7DC8 /* ZenMonitor */ = {
+		25BF84382F00194500486043 /* ZenMonitor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 25BC76672EFC5D72002A7DC8 /* Build configuration list for PBXNativeTarget "ZenMonitor" */;
+			buildConfigurationList = 25BF84442F00194500486043 /* Build configuration list for PBXNativeTarget "ZenMonitor" */;
 			buildPhases = (
-				25BC76582EFC5D72002A7DC8 /* Sources */,
-				25BC76592EFC5D72002A7DC8 /* Frameworks */,
-				25BC765A2EFC5D72002A7DC8 /* Resources */,
+				25BF84352F00194500486043 /* Sources */,
+				25BF84362F00194500486043 /* Frameworks */,
+				25BF84372F00194500486043 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				25BC765E2EFC5D72002A7DC8 /* ZenMonitor */,
+				25BF843B2F00194500486043 /* ZenMonitor */,
 			);
 			name = ZenMonitor;
 			packageProductDependencies = (
 			);
 			productName = ZenMonitor;
-			productReference = 25BC765C2EFC5D72002A7DC8 /* ZenMonitor.app */;
+			productReference = 25BF84392F00194500486043 /* ZenMonitor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		25BC76542EFC5D72002A7DC8 /* Project object */ = {
+		25BF84312F00194500486043 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2620;
 				LastUpgradeCheck = 2620;
 				TargetAttributes = {
-					25BC765B2EFC5D72002A7DC8 = {
+					25BF84382F00194500486043 = {
 						CreatedOnToolsVersion = 26.2;
 					};
 				};
 			};
-			buildConfigurationList = 25BC76572EFC5D72002A7DC8 /* Build configuration list for PBXProject "ZenMonitor" */;
+			buildConfigurationList = 25BF84342F00194500486043 /* Build configuration list for PBXProject "ZenMonitor" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 25BC76532EFC5D72002A7DC8;
+			mainGroup = 25BF84302F00194500486043;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 25BC765D2EFC5D72002A7DC8 /* Products */;
+			productRefGroup = 25BF843A2F00194500486043 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				25BC765B2EFC5D72002A7DC8 /* ZenMonitor */,
+				25BF84382F00194500486043 /* ZenMonitor */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		25BC765A2EFC5D72002A7DC8 /* Resources */ = {
+		25BF84372F00194500486043 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		25BC76582EFC5D72002A7DC8 /* Sources */ = {
+		25BF84352F00194500486043 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		25BC76652EFC5D72002A7DC8 /* Debug */ = {
+		25BF84422F00194500486043 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		25BC76662EFC5D72002A7DC8 /* Release */ = {
+		25BF84432F00194500486043 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -243,7 +243,7 @@
 			};
 			name = Release;
 		};
-		25BC76682EFC5D72002A7DC8 /* Debug */ = {
+		25BF84452F00194500486043 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -251,10 +251,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				ENABLE_APP_SANDBOX = YES;
+				ENABLE_APP_SANDBOX = NO;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -273,7 +273,7 @@
 			};
 			name = Debug;
 		};
-		25BC76692EFC5D72002A7DC8 /* Release */ = {
+		25BF84462F00194500486043 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -281,10 +281,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				ENABLE_APP_SANDBOX = YES;
+				ENABLE_APP_SANDBOX = NO;
 				ENABLE_PREVIEWS = YES;
-				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -306,25 +306,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		25BC76572EFC5D72002A7DC8 /* Build configuration list for PBXProject "ZenMonitor" */ = {
+		25BF84342F00194500486043 /* Build configuration list for PBXProject "ZenMonitor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				25BC76652EFC5D72002A7DC8 /* Debug */,
-				25BC76662EFC5D72002A7DC8 /* Release */,
+				25BF84422F00194500486043 /* Debug */,
+				25BF84432F00194500486043 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		25BC76672EFC5D72002A7DC8 /* Build configuration list for PBXNativeTarget "ZenMonitor" */ = {
+		25BF84442F00194500486043 /* Build configuration list for PBXNativeTarget "ZenMonitor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				25BC76682EFC5D72002A7DC8 /* Debug */,
-				25BC76692EFC5D72002A7DC8 /* Release */,
+				25BF84452F00194500486043 /* Debug */,
+				25BF84462F00194500486043 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 25BC76542EFC5D72002A7DC8 /* Project object */;
+	rootObject = 25BF84312F00194500486043 /* Project object */;
 }
